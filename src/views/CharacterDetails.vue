@@ -19,7 +19,7 @@ onUnmounted(() => {
 
 <template>
   <main
-    class="min-h-screen bg-gradient-to-r from-green-900 to-blue-700 py-8 text-white"
+    class="min-h-screen bg-gradient-to-r from-cyan-200 to-blue-700 py-8 text-amber-500"
   >
     <div
       v-if="currentCharacter"
